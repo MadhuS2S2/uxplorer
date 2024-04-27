@@ -1,0 +1,2044 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "Sketch",
+      "description": "Vector graphics editor for macOS",
+      "link": "https://www.sketch.com",
+      "category": "Visual Design",
+      "image": "https://example.com/sketch.png"
+    },
+    {
+      "id": 2,
+      "title": "Figma",
+      "description": "Collaborative interface design tool",
+      "link": "https://www.figma.com",
+      "category": "Visual Design",
+      "image": "https://example.com/figma.png"
+    },
+    {
+      "id": 3,
+      "title": "Adobe XD",
+      "description": "Design, prototype, and share user experiences",
+      "link": "https://www.adobe.com/products/xd.html",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_xd.png"
+    },
+    {
+      "id": 4,
+      "title": "InVision",
+      "description": "Digital product design, workflow & collaboration",
+      "link": "https://www.invisionapp.com",
+      "category": "Visual Design",
+      "image": "https://example.com/invision.png"
+    },
+    {
+      "id": 5,
+      "title": "Dribbble",
+      "description": "Show and tell for designers",
+      "link": "https://www.dribbble.com",
+      "category": "Visual Design",
+      "image": "https://example.com/dribbble.png"
+    },
+    {
+      "id": 6,
+      "title": "Behance",
+      "description": "Online platform to showcase & discover creative work",
+      "link": "https://www.behance.net",
+      "category": "Visual Design",
+      "image": "https://example.com/behance.png"
+    },
+    {
+      "id": 7,
+      "title": "Adobe Fonts",
+      "description": "Library of thousands of high-quality fonts",
+      "link": "https://fonts.adobe.com",
+      "category": "Fonts",
+      "image": "https://example.com/adobe_fonts.png"
+    },
+    {
+      "id": 8,
+      "title": "Google Fonts",
+      "description": "Library of free fonts",
+      "link": "https://fonts.google.com",
+      "category": "Fonts",
+      "image": "https://example.com/google_fonts.png"
+    },
+    {
+      "id": 9,
+      "title": "Typekit",
+      "description": "Premium fonts for your website",
+      "link": "https://typekit.com",
+      "category": "Fonts",
+      "image": "https://example.com/typekit.png"
+    },
+    {
+      "id": 10,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "UX Research",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 11,
+      "title": "Smashing Magazine",
+      "description": "Web design and development online magazine",
+      "link": "https://www.smashingmagazine.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/smashing_magazine.png"
+    },
+    {
+      "id": 12,
+      "title": "UX Mastery",
+      "description": "Articles, courses, and resources for UX professionals",
+      "link": "https://www.uxmastery.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_mastery.png"
+    },
+    {
+      "id": 13,
+      "title": "UX Planet",
+      "description": "Publication sharing articles, stories, and tutorials about UX design",
+      "link": "https://www.uxplanet.org",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_planet.png"
+    },
+    {
+      "id": 14,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 15,
+      "title": "Mockplus",
+      "description": "Prototyping tool for web, mobile, and desktop apps",
+      "link": "https://www.mockplus.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/mockplus.png"
+    },
+    {
+      "id": 16,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 17,
+      "title": "Axure RP",
+      "description": "Prototyping and wireframing tool",
+      "link": "https://www.axure.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/axure_rp.png"
+    },
+    {
+      "id": 18,
+      "title": "SketchUp",
+      "description": "3D modeling software",
+      "link": "https://www.sketchup.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/sketchup.png"
+    },
+    {
+      "id": 19,
+      "title": "Adobe XD",
+      "description": "Design, prototype, and share user experiences",
+      "link": "https://www.adobe.com/products/xd.html",
+      "category": "Interaction Design",
+      "image": "https://example.com/adobe_xd.png"
+    },
+    {
+      "id": 20,
+      "title": "PTTRNS",
+      "description": "Mobile design patterns",
+      "link": "https://www.pttrns.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/pttrns.png"
+    },
+    {
+      "id": 21,
+      "title": "InVision",
+      "description": "Digital product design, workflow & collaboration",
+      "link": "https://www.invisionapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/invision.png"
+    },
+    {
+      "id": 22,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "Information Architecture",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 23,
+      "title": "The Future of Information Architecture",
+      "description": "Article on information architecture trends",
+      "link": "https://www.smashingmagazine.com/2021/12/future-information-architecture-trends/",
+      "category": "Information Architecture",
+      "image": "https://example.com/information_architecture.png"
+    },
+    {
+      "id": 24,
+      "title": "Adobe Fonts",
+      "description": "Library of thousands of high-quality fonts",
+      "link": "https://fonts.adobe.com",
+      "category": "Fonts",
+      "image": "https://example.com/adobe_fonts.png"
+    },
+    {
+      "id": 25,
+      "title": "Google Fonts",
+      "description": "Library of free fonts",
+      "link": "https://fonts.google.com",
+      "category": "Fonts",
+      "image": "https://example.com/google_fonts.png"
+    },
+    {
+      "id": 26,
+      "title": "Typekit",
+      "description": "Premium fonts for your website",
+      "link": "https://typekit.com",
+      "category": "Fonts",
+      "image": "https://example.com/typekit.png"
+    },
+    {
+      "id": 27,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "UX Research",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 28,
+      "title": "Smashing Magazine",
+      "description": "Web design and development online magazine",
+      "link": "https://www.smashingmagazine.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/smashing_magazine.png"
+    },
+    {
+      "id": 29,
+      "title": "UX Mastery",
+      "description": "Articles, courses, and resources for UX professionals",
+      "link": "https://www.uxmastery.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_mastery.png"
+    },
+    {
+      "id": 30,
+      "title": "UX Planet",
+      "description": "Publication sharing articles, stories, and tutorials about UX design",
+      "link": "https://www.uxplanet.org",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_planet.png"
+    },
+    {
+      "id": 31,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 32,
+      "title": "Mockplus",
+      "description": "Prototyping tool for web, mobile, and desktop apps",
+      "link": "https://www.mockplus.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/mockplus.png"
+    },
+    {
+      "id": 33,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 34,
+      "title": "Axure RP",
+      "description": "Prototyping and wireframing tool",
+      "link": "https://www.axure.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/axure_rp.png"
+    },
+    {
+      "id": 35,
+      "title": "SketchUp",
+      "description": "3D modeling software",
+      "link": "https://www.sketchup.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/sketchup.png"
+    },
+    {
+      "id": 36,
+      "title": "Adobe XD",
+      "description": "Design, prototype, and share user experiences",
+      "link": "https://www.adobe.com/products/xd.html",
+      "category": "Interaction Design",
+      "image": "https://example.com/adobe_xd.png"
+    },
+    {
+      "id": 37,
+      "title": "PTTRNS",
+      "description": "Mobile design patterns",
+      "link": "https://www.pttrns.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/pttrns.png"
+    },
+    {
+      "id": 38,
+      "title": "InVision",
+      "description": "Digital product design, workflow & collaboration",
+      "link": "https://www.invisionapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/invision.png"
+    },
+    {
+      "id": 39,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "Information Architecture",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 40,
+      "title": "The Future of Information Architecture",
+      "description": "Article on information architecture trends",
+      "link": "https://www.smashingmagazine.com/2021/12/future-information-architecture-trends/",
+      "category": "Information Architecture",
+      "image": "https://example.com/information_architecture.png"
+    },
+    {
+      "id": 41,
+      "title": "Adobe Fonts",
+      "description": "Library of thousands of high-quality fonts",
+      "link": "https://fonts.adobe.com",
+      "category": "Fonts",
+      "image": "https://example.com/adobe_fonts.png"
+    },
+    {
+      "id": 42,
+      "title": "Google Fonts",
+      "description": "Library of free fonts",
+      "link": "https://fonts.google.com",
+      "category": "Fonts",
+      "image": "https://example.com/google_fonts.png"
+    },
+    {
+      "id": 43,
+      "title": "Typekit",
+      "description": "Premium fonts for your website",
+      "link": "https://typekit.com",
+      "category": "Fonts",
+      "image": "https://example.com/typekit.png"
+    },
+    {
+      "id": 44,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "UX Research",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 45,
+      "title": "Smashing Magazine",
+      "description": "Web design and development online magazine",
+      "link": "https://www.smashingmagazine.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/smashing_magazine.png"
+    },
+    {
+      "id": 46,
+      "title": "UX Mastery",
+      "description": "Articles, courses, and resources for UX professionals",
+      "link": "https://www.uxmastery.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_mastery.png"
+    },
+    {
+      "id": 47,
+      "title": "UX Planet",
+      "description": "Publication sharing articles, stories, and tutorials about UX design",
+      "link": "https://www.uxplanet.org",
+      "category": "UX Case Study",
+      "image": "https://example.com/ux_planet.png"
+    },
+    {
+      "id": 48,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 49,
+      "title": "Mockplus",
+      "description": "Prototyping tool for web, mobile, and desktop apps",
+      "link": "https://www.mockplus.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/mockplus.png"
+    },
+    {
+      "id": 50,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 51,
+      "title": "Adobe Spark",
+      "description": "Online design tool for creating social graphics, web pages, and short videos",
+      "link": "https://www.adobe.com/products/spark.html",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_spark.png"
+    },
+    {
+      "id": 52,
+      "title": "Framer",
+      "description": "Interactive design and prototyping tool",
+      "link": "https://www.framer.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/framer.png"
+    },
+    {
+      "id": 53,
+      "title": "Lucidpress",
+      "description": "Design and brand templating platform",
+      "link": "https://www.lucidpress.com",
+      "category": "Visual Design",
+      "image": "https://example.com/lucidpress.png"
+    },
+    {
+      "id": 54,
+      "title": "Webflow",
+      "description": "No-code website builder for designers",
+      "link": "https://www.webflow.com",
+      "category": "Visual Design",
+      "image": "https://example.com/webflow.png"
+    },
+    {
+      "id": 55,
+      "title": "Froont",
+      "description": "Responsive web design tool",
+      "link": "https://froont.com",
+      "category": "Visual Design",
+      "image": "https://example.com/froont.png"
+    },
+    {
+      "id": 56,
+      "title": "Atomic",
+      "description": "Design prototyping tool for teams",
+      "link": "https://atomic.io",
+      "category": "Interaction Design",
+      "image": "https://example.com/atomic.png"
+    },
+    {
+      "id": 57,
+      "title": "Protopie",
+      "description": "Interactive prototyping tool for smart devices",
+      "link": "https://www.protopie.io",
+      "category": "Interaction Design",
+      "image": "https://example.com/protopie.png"
+    },
+    {
+      "id": 58,
+      "title": "Overflow",
+      "description": "User flow diagramming tool",
+      "link": "https://overflow.io",
+      "category": "Interaction Design",
+      "image": "https://example.com/overflow.png"
+    },
+    {
+      "id": 59,
+      "title": "Slickplan",
+      "description": "Website planning and diagramming tool",
+      "link": "https://www.slickplan.com",
+      "category": "Information Architecture",
+      "image": "https://example.com/slickplan.png"
+    },
+    {
+      "id": 60,
+      "title": "Optimal Workshop",
+      "description": "Suite of UX research tools",
+      "link": "https://www.optimalworkshop.com",
+      "category": "UX Research",
+      "image": "https://example.com/optimal_workshop.png"
+    },
+    {
+      "id": 61,
+      "title": "Loop11",
+      "description": "User testing and usability testing tool",
+      "link": "https://www.loop11.com",
+      "category": "UX Research",
+      "image": "https://example.com/loop11.png"
+    },
+    {
+      "id": 62,
+      "title": "Userbrain",
+      "description": "Remote user testing tool",
+      "link": "https://www.userbrain.net",
+      "category": "UX Research",
+      "image": "https://example.com/userbrain.png"
+    },
+    {
+      "id": 63,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 64,
+      "title": "Balsamiq Cloud",
+      "description": "Wireframing and mockup tool",
+      "link": "https://balsamiq.cloud",
+      "category": "Interaction Design",
+      "image": "https://example.com/balsamiq_cloud.png"
+    },
+    {
+      "id": 65,
+      "title": "Wireframe.cc",
+      "description": "Online wireframing tool",
+      "link": "https://wireframe.cc",
+      "category": "Interaction Design",
+      "image": "https://example.com/wireframe_cc.png"
+    },
+    {
+      "id": 66,
+      "title": "Figma Community",
+      "description": "Discover, share, and collaborate on design files in Figma",
+      "link": "https://www.figma.com/community",
+      "category": "Visual Design",
+      "image": "https://example.com/figma_community.png"
+    },
+    {
+      "id": 67,
+      "title": "Adobe Stock",
+      "description": "Millions of royalty-free images, photos, graphics, vectors, video footage, illustrations, templates, 3D assets, editorial assets and high-quality premium content",
+      "link": "https://stock.adobe.com",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_stock.png"
+    },
+    {
+      "id": 68,
+      "title": "Icons8",
+      "description": "Design resources: icons, UI illustrations, photos, and software to class up your project",
+      "link": "https://icons8.com",
+      "category": "Visual Design",
+      "image": "https://example.com/icons8.png"
+    },
+    {
+      "id": 69,
+      "title": "Unsplash",
+      "description": "The internet’s source of freely usable images",
+      "link": "https://unsplash.com",
+      "category": "Visual Design",
+      "image": "https://example.com/unsplash.png"
+    },
+    {
+      "id": 70,
+      "title": "Flaticon",
+      "description": "The largest database of free icons available in PNG, SVG, EPS, PSD, and BASE 64 formats",
+      "link": "https://www.flaticon.com",
+      "category": "Visual Design",
+      "image": "https://example.com/flaticon.png"
+    },
+    {
+      "id": 71,
+      "title": "Material Design",
+      "description": "Design system by Google",
+      "link": "https://material.io",
+      "category": "Visual Design",
+      "image": "https://example.com/material_design.png"
+    },
+    {
+      "id": 72,
+      "title": "Color Hunt",
+      "description": "Curated collection of beautiful colors, updated daily",
+      "link": "https://colorhunt.co",
+      "category": "Visual Design",
+      "image": "https://example.com/color_hunt.png"
+    },
+    {
+      "id": 73,
+      "title": "Canva",
+      "description": "Graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content",
+      "link": "https://www.canva.com",
+      "category": "Visual Design",
+      "image": "https://example.com/canva.png"
+    },
+    {
+      "id": 74,
+      "title": "Dribbble",
+      "description": "Show and tell for designers",
+      "link": "https://www.dribbble.com",
+      "category": "Visual Design",
+      "image": "https://example.com/dribbble.png"
+    },
+    {
+      "id": 75,
+      "title": "Behance",
+      "description": "Online platform to showcase & discover creative work",
+      "link": "https://www.behance.net",
+      "category": "Visual Design",
+      "image": "https://example.com/behance.png"
+    },
+    {
+      "id": 76,
+      "title": "Muzli",
+      "description": "Design inspiration and news",
+      "link": "https://muz.li",
+      "category": "Visual Design",
+      "image": "https://example.com/muzli.png"
+    },
+    {
+      "id": 77,
+      "title": "Pexels",
+      "description": "High-quality free stock photos",
+      "link": "https://www.pexels.com",
+      "category": "Visual Design",
+      "image": "https://example.com/pexels.png"
+    },
+    {
+      "id": 78,
+      "title": "CSS-Tricks",
+      "description": "Web design and development blog",
+      "link": "https://css-tricks.com",
+      "category": "Visual Design",
+      "image": "https://example.com/css_tricks.png"
+    },
+    {
+      "id": 79,
+      "title": "Awwwards",
+      "description": "Website awards and web design inspiration",
+      "link": "https://www.awwwards.com",
+      "category": "Visual Design",
+      "image": "https://example.com/awwwards.png"
+    },
+    {
+      "id": 80,
+      "title": "Uplabs",
+      "description": "High-quality design resources and inspiration",
+      "link": "https://www.uplabs.com",
+      "category": "Visual Design",
+      "image": "https://example.com/uplabs.png"
+    },
+    {
+      "id": 81,
+      "title": "Designspiration",
+      "description": "Design inspiration",
+      "link": "https://www.designspiration.com",
+      "category": "Visual Design",
+      "image": "https://example.com/designspiration.png"
+    },
+    {
+      "id": 82,
+      "title": "Designmodo",
+      "description": "Web design blog, website builder, and shop",
+      "link": "https://designmodo.com",
+      "category": "Visual Design",
+      "image": "https://example.com/designmodo.png"
+    },
+    {
+      "id": 83,
+      "title": "GraphicBurger",
+      "description": "Tasty design resources made with care for each pixel",
+      "link": "https://graphicburger.com",
+      "category": "Visual Design",
+      "image": "https://example.com/graphicburger.png"
+    },
+    {
+      "id": 84,
+      "title": "Mockplus",
+      "description": "Prototyping tool for web, mobile, and desktop apps",
+      "link": "https://www.mockplus.com",
+      "category": "Interaction Design",
+      "image": "https://example.com/mockplus.png"
+    },
+    {
+      "id": 85,
+      "title": "Adobe Creative Cloud",
+      "description": "Collection of desktop and mobile apps and services for photography, design, video, web, UX, and more",
+      "link": "https://www.adobe.com/creativecloud.html",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_cc.png"
+    },
+    {
+      "id": 86,
+      "title": "ProtoPie",
+      "description": "No-code interaction prototyping tool",
+      "link": "https://www.protopie.io",
+      "category": "Interaction Design",
+      "image": "https://example.com/protopie.png"
+    },
+    {
+      "id": 87,
+      "title": "Zeplin",
+      "description": "Collaboration tool for designers and developers",
+      "link": "https://www.zeplin.io",
+      "category": "Visual Design",
+      "image": "https://example.com/zeplin.png"
+    },
+    {
+      "id": 88,
+      "title": "Proto.io",
+      "description": "Interactive mobile app prototyping tool",
+      "link": "https://proto.io",
+      "category": "Interaction Design",
+      "image": "https://example.com/protoio.png"
+    },
+    {
+      "id": 89,
+      "title": "Adobe Dimension",
+      "description": "3D design and rendering software",
+      "link": "https://www.adobe.com/products/dimension.html",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_dimension.png"
+    },
+    {
+      "id": 90,
+      "title": "Framer Motion",
+      "description": "Open-source, production-ready motion library for React",
+      "link": "https://www.framer.com/motion",
+      "category": "Interaction Design",
+      "image": "https://example.com/framer_motion.png"
+    },
+    {
+      "id": 91,
+      "title": "Adobe Portfolio",
+      "description": "Create a custom portfolio website to showcase your work",
+      "link": "https://portfolio.adobe.com",
+      "category": "Visual Design",
+      "image": "https://example.com/adobe_portfolio.png"
+    },
+    {
+      "id": 92,
+      "title": "UI8",
+      "description": "Design resources, UI kits, and templates",
+      "link": "https://ui8.net",
+      "category": "Visual Design",
+      "image": "https://example.com/ui8.png"
+    },
+    {
+      "id": 93,
+      "title": "Zapier",
+      "description": "Connect your apps and automate workflows",
+      "link": "https://zapier.com",
+      "category": "Productivity",
+      "image": "https://example.com/zapier.png"
+    },
+    {
+      "id": 94,
+      "title": "Trello",
+      "description": "Collaboration tool that organizes your projects into boards",
+      "link": "https://trello.com",
+      "category": "Productivity",
+      "image": "https://example.com/trello.png"
+    },
+    {
+      "id": 95,
+      "title": "Notion",
+      "description": "All-in-one workspace for note-taking, project management, and task management",
+      "link": "https://www.notion.so",
+      "category": "Productivity",
+      "image": "https://example.com/notion.png"
+    },
+    {
+      "id": 96,
+      "title": "Asana",
+      "description": "Work management platform",
+      "link": "https://asana.com",
+      "category": "Productivity",
+      "image": "https://example.com/asana.png"
+    },
+    {
+      "id": 97,
+      "title": "Slack",
+      "description": "Messaging app for teams",
+      "link": "https://slack.com",
+      "category": "Productivity",
+      "image": "https://example.com/slack.png"
+    },
+    {
+      "id": 98,
+      "title": "Monday.com",
+      "description": "Work operating system that powers teams to run projects and workflows",
+      "link": "https://monday.com",
+      "category": "Productivity",
+      "image": "https://example.com/monday.png"
+    },
+    {
+      "id": 99,
+      "title": "Google Workspace",
+      "description": "A suite of cloud computing, productivity, and collaboration tools",
+      "link": "https://workspace.google.com",
+      "category": "Productivity",
+      "image": "https://example.com/google_workspace.png"
+    },
+    {
+      "id": 100,
+      "title": "Microsoft Teams",
+      "description": "Chat-based collaboration platform",
+      "link": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "category": "Productivity",
+      "image": "https://example.com/microsoft_teams.png"
+    },
+    {
+      "id": 101,
+      "title": "Bootstrap",
+      "description": "Popular front-end framework for building responsive and mobile-first websites",
+      "link": "https://getbootstrap.com",
+      "category": "UI Design",
+      "image": "https://example.com/bootstrap.png"
+    },
+    {
+      "id": 102,
+      "title": "Foundation",
+      "description": "Responsive front-end framework",
+      "link": "https://get.foundation",
+      "category": "UI Design",
+      "image": "https://example.com/foundation.png"
+    },
+    {
+      "id": 103,
+      "title": "Semantic UI",
+      "description": "UI component framework based around useful principles from natural language",
+      "link": "https://semantic-ui.com",
+      "category": "UI Design",
+      "image": "https://example.com/semantic_ui.png"
+    },
+    {
+      "id": 104,
+      "title": "Material-UI",
+      "description": "React components for faster and easier web development",
+      "link": "https://material-ui.com",
+      "category": "UI Design",
+      "image": "https://example.com/material_ui.png"
+    },
+    {
+      "id": 105,
+      "title": "Tailwind CSS",
+      "description": "Utility-first CSS framework for rapidly building custom designs",
+      "link": "https://tailwindcss.com",
+      "category": "UI Design",
+      "image": "https://example.com/tailwind_css.png"
+    },
+    {
+      "id": 106,
+      "title": "Ant Design",
+      "description": "Design system for enterprise-level products",
+      "link": "https://ant.design",
+      "category": "UI Design",
+      "image": "https://example.com/ant_design.png"
+    },
+    {
+      "id": 107,
+      "title": "Grommet",
+      "description": "React-based design system that facilitates the construction of accessible, responsive, and enterprise-level web apps",
+      "link": "https://v2.grommet.io",
+      "category": "UI Design",
+      "image": "https://example.com/grommet.png"
+    },
+    {
+      "id": 108,
+      "title": "Chakra UI",
+      "description": "Simple, modular, and accessible component library that gives you the building blocks you need to build your React applications",
+      "link": "https://chakra-ui.com",
+      "category": "UI Design",
+      "image": "https://example.com/chakra_ui.png"
+    },
+    {
+      "id": 109,
+      "title": "Evernote",
+      "description": "App for note-taking, organizing, task management, and archiving",
+      "link": "https://www.evernote.com",
+      "category": "Productivity",
+      "image": "https://example.com/evernote.png"
+    },
+    {
+      "id": 110,
+      "title": "Pocket",
+      "description": "App for saving articles, videos, and stories from any publication, page, or app",
+      "link": "https://getpocket.com",
+      "category": "Productivity",
+      "image": "https://example.com/pocket.png"
+    },
+    {
+      "id": 111,
+      "title": "Todoist",
+      "description": "To-do list and task manager app",
+      "link": "https://todoist.com",
+      "category": "Productivity",
+      "image": "https://example.com/todoist.png"
+    },
+    {
+      "id": 112,
+      "title": "MindMeister",
+      "description": "Mind mapping tool",
+      "link": "https://www.mindmeister.com",
+      "category": "Productivity",
+      "image": "https://example.com/mindmeister.png"
+    },
+    {
+      "id": 113,
+      "title": "Grammarly",
+      "description": "Writing assistant tool",
+      "link": "https://www.grammarly.com",
+      "category": "Productivity",
+      "image": "https://example.com/grammarly.png"
+    },
+    {
+      "id": 114,
+      "title": "IFTTT",
+      "description": "Service that allows you to connect different apps and devices together",
+      "link": "https://ifttt.com",
+      "category": "Productivity",
+      "image": "https://example.com/ifttt.png"
+    },
+    {
+      "id": 115,
+      "title": "RescueTime",
+      "description": "Time management tool that tracks your digital activities and provides insights",
+      "link": "https://www.rescuetime.com",
+      "category": "Productivity",
+      "image": "https://example.com/rescuetime.png"
+    },
+    {
+      "id": 116,
+      "title": "Todoist",
+      "description": "To-do list and task manager app",
+      "link": "https://todoist.com",
+      "category": "Productivity",
+      "image": "https://example.com/todoist.png"
+    },
+    {
+      "id": 117,
+      "title": "Trello",
+      "description": "Collaboration tool that organizes your projects into boards",
+      "link": "https://trello.com",
+      "category": "Productivity",
+      "image": "https://example.com/trello.png"
+    },
+    {
+      "id": 118,
+      "title": "Slack",
+      "description": "Messaging app for teams",
+      "link": "https://slack.com",
+      "category": "Productivity",
+      "image": "https://example.com/slack.png"
+    },
+    {
+      "id": 119,
+      "title": "Microsoft Teams",
+      "description": "Chat-based collaboration platform",
+      "link": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "category": "Productivity",
+      "image": "https://example.com/microsoft_teams.png"
+    },
+    {
+      "id": 120,
+      "title": "Google Workspace",
+      "description": "A suite of cloud computing, productivity, and collaboration tools",
+      "link": "https://workspace.google.com",
+      "category": "Productivity",
+      "image": "https://example.com/google_workspace.png"
+    },
+    {
+      "id": 121,
+      "title": "Microsoft Office 365",
+      "description": "Subscription service that includes access to various Microsoft Office applications",
+      "link": "https://www.microsoft.com/en-us/microsoft-365",
+      "category": "Productivity",
+      "image": "https://example.com/microsoft_office.png"
+    },
+    {
+      "id": 122,
+      "title": "Asana",
+      "description": "Work management platform",
+      "link": "https://asana.com",
+      "category": "Productivity",
+      "image": "https://example.com/asana.png"
+    },
+    {
+      "id": 123,
+      "title": "Notion",
+      "description": "All-in-one workspace for note-taking, project management, and task management",
+      "link": "https://www.notion.so",
+      "category": "Productivity",
+      "image": "https://example.com/notion.png"
+    },
+    {
+      "id": 124,
+      "title": "Zapier",
+      "description": "Connect your apps and automate workflows",
+      "link": "https://zapier.com",
+      "category": "Productivity",
+      "image": "https://example.com/zapier.png"
+    },
+    {
+      "id": 125,
+      "title": "Sketch",
+      "description": "Digital design toolkit",
+      "link": "https://www.sketch.com",
+      "category": "UI Design",
+      "image": "https://example.com/sketch.png"
+    },
+    {
+      "id": 126,
+      "title": "InVision",
+      "description": "Digital product design, workflow, and collaboration platform",
+      "link": "https://www.invisionapp.com",
+      "category": "UI Design",
+      "image": "https://example.com/invision.png"
+    },
+    {
+      "id": 127,
+      "title": "Adobe XD",
+      "description": "Vector-based user experience design tool for web apps and mobile apps",
+      "link": "https://www.adobe.com/products/xd.html",
+      "category": "UI Design",
+      "image": "https://example.com/adobe_xd.png"
+    },
+    {
+      "id": 128,
+      "title": "Axure RP",
+      "description": "Wireframing, prototyping, and specification software tool",
+      "link": "https://www.axure.com",
+      "category": "UI Design",
+      "image": "https://example.com/axure_rp.png"
+    },
+    {
+      "id": 129,
+      "title": "Figma",
+      "description": "Collaborative interface design tool",
+      "link": "https://www.figma.com",
+      "category": "UI Design",
+      "image": "https://example.com/figma.png"
+    },
+    {
+      "id": 130,
+      "title": "Adobe Creative Cloud",
+      "description": "Collection of desktop and mobile apps and services for photography, design, video, web, UX, and more",
+      "link": "https://www.adobe.com/creativecloud.html",
+      "category": "UI Design",
+      "image": "https://example.com/adobe_cc.png"
+    },
+    {
+      "id": 131,
+      "title": "Proto.io",
+      "description": "Interactive mobile app prototyping tool",
+      "link": "https://proto.io",
+      "category": "UI Design",
+      "image": "https://example.com/protoio.png"
+    },
+    {
+      "id": 132,
+      "title": "Framer",
+      "description": "Interactive design and prototyping tool",
+      "link": "https://www.framer.com",
+      "category": "UI Design",
+      "image": "https://example.com/framer.png"
+    },
+    {
+      "id": 133,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "UI Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 134,
+      "title": "Sketchfab",
+      "description": "Publish, share, and discover 3D content online and in VR",
+      "link": "https://sketchfab.com",
+      "category": "UI Design",
+      "image": "https://example.com/sketchfab.png"
+    },
+    {
+      "id": 135,
+      "title": "Google Fonts",
+      "description": "Library of free and open source fonts",
+      "link": "https://fonts.google.com",
+      "category": "Fonts",
+      "image": "https://example.com/google_fonts.png"
+    },
+    {
+      "id": 136,
+      "title": "Adobe Fonts",
+      "description": "Access thousands of high-quality fonts from Adobe Fonts",
+      "link": "https://fonts.adobe.com",
+      "category": "Fonts",
+      "image": "https://example.com/adobe_fonts.png"
+    },
+    {
+      "id": 137,
+      "title": "Font Squirrel",
+      "description": "Collection of free fonts for commercial use",
+      "link": "https://www.fontsquirrel.com",
+      "category": "Fonts",
+      "image": "https://example.com/font_squirrel.png"
+    },
+    {
+      "id": 138,
+      "title": "DaFont",
+      "description": "Archive of freely downloadable fonts",
+      "link": "https://www.dafont.com",
+      "category": "Fonts",
+      "image": "https://example.com/dafont.png"
+    },
+    {
+      "id": 139,
+      "title": "The Noun Project",
+      "description": "Icons for everything",
+      "link": "https://thenounproject.com",
+      "category": "Illustrations",
+      "image": "https://example.com/noun_project.png"
+    },
+    {
+      "id": 140,
+      "title": "Undraw",
+      "description": "Open-source illustrations for any idea you can imagine and create",
+      "link": "https://undraw.co",
+      "category": "Illustrations",
+      "image": "https://example.com/undraw.png"
+    },
+    {
+      "id": 141,
+      "title": "Icons8",
+      "description": "Design resources: icons, UI illustrations, photos, and software to class up your project",
+      "link": "https://icons8.com",
+      "category": "Illustrations",
+      "image": "https://example.com/icons8.png"
+    },
+    {
+      "id": 142,
+      "title": "FlatIcon",
+      "description": "The largest database of free icons in PNG, SVG, EPS, PSD, and BASE 64 formats",
+      "link": "https://www.flaticon.com",
+      "category": "Illustrations",
+      "image": "https://example.com/flaticon.png"
+    },
+    {
+      "id": 143,
+      "title": "Iconfinder",
+      "description": "Search engine and marketplace for vector icons in SVG, PNG, CSH, and AI format",
+      "link": "https://www.iconfinder.com",
+      "category": "Illustrations",
+      "image": "https://example.com/iconfinder.png"
+    },
+    {
+      "id": 144,
+      "title": "Freepik",
+      "description": "Graphic resources for everyonen",
+      "link": "https://www.freepik.com",
+      "category": "Illustrations",
+      "image": "https://example.com/freepik.png"
+    },
+    {
+      "id": 145,
+      "title": "DrawKit",
+      "description": "Hand-drawn vector illustration resources for your projects",
+      "link": "https://www.drawkit.io",
+      "category": "Illustrations",
+      "image": "https://example.com/drawkit.png"
+    },
+    {
+      "id": 146,
+      "title": "UI Goodies",
+      "description": "Directory of the best resources for designers and developers",
+      "link": "https://uigoodies.com",
+      "category": "UI Design",
+      "image": "https://example.com/uigoodies.png"
+    },
+    {
+      "id": 147,
+      "title": "Design Systems Repo",
+      "description": "Collection of design system examples, resources, tools, articles, and more",
+      "link": "https://designsystemsrepo.com",
+      "category": "UI Design",
+      "image": "https://example.com/design_systems_repo.png"
+    },
+    {
+      "id": 148,
+      "title": "Design Hunt",
+      "description": "Daily curated design inspiration and news",
+      "link": "https://www.designhunt.co",
+      "category": "UI Design",
+      "image": "https://example.com/design_hunt.png"
+    },
+    {
+      "id": 149,
+      "title": "UI Jar",
+      "description": "Collection of the best UI design inspiration, resources, and freebies",
+      "link": "https://uijar.com",
+      "category": "UI Design",
+      "image": "https://example.com/uijar.png"
+    },
+    {
+      "id": 150,
+      "title": "Web Design Inspiration",
+      "description": "Curated showcase of the best web design inspiration",
+      "link": "https://www.webdesign-inspiration.com",
+      "category": "UI Design",
+      "image": "https://example.com/webdesign_inspiration.png"
+    },
+    {
+      "id": 151,
+      "title": "Balsamiq",
+      "description": "Wireframing tool that helps you sketch your user interfaces",
+      "link": "https://balsamiq.com",
+      "category": "UI Design",
+      "image": "https://example.com/balsamiq.png"
+    },
+    {
+      "id": 152,
+      "title": "Lucidchart",
+      "description": "Visual workspace for diagramming, data visualization, and collaboration",
+      "link": "https://www.lucidchart.com",
+      "category": "UI Design",
+      "image": "https://example.com/lucidchart.png"
+    },
+    {
+      "id": 153,
+      "title": "Axure RP",
+      "description": "Wireframing, prototyping, and specification software tool",
+      "link": "https://www.axure.com",
+      "category": "UI Design",
+      "image": "https://example.com/axure_rp.png"
+    },
+    {
+      "id": 154,
+      "title": "Figma",
+      "description": "Collaborative interface design tool",
+      "link": "https://www.figma.com",
+      "category": "UI Design",
+      "image": "https://example.com/figma.png"
+    },
+    {
+      "id": 155,
+      "title": "Adobe XD",
+      "description": "Vector-based user experience design tool for web apps and mobile apps",
+      "link": "https://www.adobe.com/products/xd.html",
+      "category": "UI Design",
+      "image": "https://example.com/adobe_xd.png"
+    },
+    {
+      "id": 156,
+      "title": "Sketch",
+      "description": "Digital design toolkit",
+      "link": "https://www.sketch.com",
+      "category": "UI Design",
+      "image": "https://example.com/sketch.png"
+    },
+    {
+      "id": 157,
+      "title": "InVision",
+      "description": "Digital product design, workflow, and collaboration platform",
+      "link": "https://www.invisionapp.com",
+      "category": "UI Design",
+      "image": "https://example.com/invision.png"
+    },
+    {
+      "id": 158,
+      "title": "Marvel",
+      "description": "Prototyping and collaboration tool",
+      "link": "https://www.marvelapp.com",
+      "category": "UI Design",
+      "image": "https://example.com/marvel.png"
+    },
+    {
+      "id": 159,
+      "title": "Proto.io",
+      "description": "Interactive mobile app prototyping tool",
+      "link": "https://proto.io",
+      "category": "UI Design",
+      "image": "https://example.com/protoio.png"
+    },
+    {
+      "id": 160,
+      "title": "Adobe Creative Cloud",
+      "description": "Collection of desktop and mobile apps and services for photography, design, video, web, UX, and more",
+      "link": "https://www.adobe.com/creativecloud.html",
+      "category": "UI Design",
+      "image": "https://example.com/adobe_cc.png"
+    },
+    {
+      "id": 161,
+      "title": "ProtoPie",
+      "description": "No-code interaction prototyping tool",
+      "link": "https://www.protopie.io",
+      "category": "UI Design",
+      "image": "https://example.com/protopie.png"
+    },
+    {
+      "id": 162,
+      "title": "Principle",
+      "description": "Animation and interaction design tool for creating high-fidelity prototypes",
+      "link": "https://principleformac.com",
+      "category": "UI Design",
+      "image": "https://example.com/principle.png"
+    },
+    {
+      "id": 163,
+      "title": "Origami Studio",
+      "description": "Tool for designing modern interfaces",
+      "link": "https://origami.design",
+      "category": "UI Design",
+      "image": "https://example.com/origami_studio.png"
+    },
+    {
+      "id": 164,
+      "title": "Justinmind",
+      "description": "Prototyping tool for web and mobile apps",
+      "link": "https://www.justinmind.com",
+      "category": "UI Design",
+      "image": "https://example.com/justinmind.png"
+    },
+    {
+      "id": 165,
+      "title": "Wireframe.cc",
+      "description": "Minimal wireframing tool",
+      "link": "https://wireframe.cc",
+      "category": "UI Design",
+      "image": "https://example.com/wireframe_cc.png"
+    },
+    {
+      "id": 166,
+      "title": "Sketchfab",
+      "description": "Publish, share, and discover 3D content online and in VR",
+      "link": "https://sketchfab.com",
+      "category": "UI Design",
+      "image": "https://example.com/sketchfab.png"
+    },
+    {
+      "id": 167,
+      "title": "Font Squirrel",
+      "description": "Collection of free fonts for commercial use",
+      "link": "https://www.fontsquirrel.com",
+      "category": "Fonts",
+      "image": "https://example.com/font_squirrel.png"
+    },
+    {
+      "id": 168,
+      "title": "DaFont",
+      "description": "Archive of freely downloadable fonts",
+      "link": "https://www.dafont.com",
+      "category": "Fonts",
+      "image": "https://example.com/dafont.png"
+    },
+    {
+      "id": 169,
+      "title": "Google Fonts",
+      "description": "Library of free and open source fonts",
+      "link": "https://fonts.google.com",
+      "category": "Fonts",
+      "image": "https://example.com/google_fonts.png"
+    },
+    {
+      "id": 170,
+      "title": "Adobe Fonts",
+      "description": "Access thousands of high-quality fonts from Adobe Fonts",
+      "link": "https://fonts.adobe.com",
+      "category": "Fonts",
+      "image": "https://example.com/adobe_fonts.png"
+    },
+    {
+      "id": 171,
+      "title": "Icons8",
+      "description": "Design resources: icons, UI illustrations, photos, and software to class up your project",
+      "link": "https://icons8.com",
+      "category": "Illustrations",
+      "image": "https://example.com/icons8.png"
+    },
+    {
+      "id": 172,
+      "title": "FlatIcon",
+      "description": "The largest database of free icons in PNG, SVG, EPS, PSD, and BASE 64 formats",
+      "link": "https://www.flaticon.com",
+      "category": "Illustrations",
+      "image": "https://example.com/flaticon.png"
+    },
+    {
+      "id": 173,
+      "title": "The Noun Project",
+      "description": "Icons for everything",
+      "link": "https://thenounproject.com",
+      "category": "Illustrations",
+      "image": "https://example.com/noun_project.png"
+    },
+    {
+      "id": 174,
+      "title": "Undraw",
+      "description": "Open-source illustrations for any idea you can imagine and create",
+      "link": "https://undraw.co",
+      "category": "Illustrations",
+      "image": "https://example.com/undraw.png"
+    },
+    {
+      "id": 175,
+      "title": "DrawKit",
+      "description": "Hand-drawn vector illustration resources for your projects",
+      "link": "https://www.drawkit.io",
+      "category": "Illustrations",
+      "image": "https://example.com/drawkit.png"
+    },
+    {
+      "id": 176,
+      "title": "Design Systems Repo",
+      "description": "Collection of design system examples, resources, tools, articles, and more",
+      "link": "https://designsystemsrepo.com",
+      "category": "UI Design",
+      "image": "https://example.com/design_systems_repo.png"
+    },
+    {
+      "id": 177,
+      "title": "Design Hunt",
+      "description": "Daily curated design inspiration and news",
+      "link": "https://www.designhunt.co",
+      "category": "UI Design",
+      "image": "https://example.com/design_hunt.png"
+    },
+    {
+      "id": 178,
+      "title": "UI Jar",
+      "description": "Collection of the best UI design inspiration, resources, and freebies",
+      "link": "https://uijar.com",
+      "category": "UI Design",
+      "image": "https://example.com/uijar.png"
+    },
+    {
+      "id": 179,
+      "title": "Web Design Inspiration",
+      "description": "Curated showcase of the best web design inspiration",
+      "link": "https://www.webdesign-inspiration.com",
+      "category": "UI Design",
+      "image": "https://example.com/webdesign_inspiration.png"
+    },
+    {
+      "id": 180,
+      "title": "Awwwards",
+      "description": "Website awards and ratings of the best websites",
+      "link": "https://www.awwwards.com",
+      "category": "UI Design",
+      "image": "https://example.com/awwwards.png"
+    },
+    {
+      "id": 181,
+      "title": "CSS Design Awards",
+      "description": "Website awards for the best websites",
+      "link": "https://www.cssdesignawards.com",
+      "category": "UI Design",
+      "image": "https://example.com/css_design_awards.png"
+    },
+    {
+      "id": 182,
+      "title": "UI Movement",
+      "description": "Curated collection of UI design animations",
+      "link": "https://uimovement.com",
+      "category": "UI Design",
+      "image": "https://example.com/uimovement.png"
+    },
+    {
+      "id": 183,
+      "title": "Collect UI",
+      "description": "Daily inspiration collected from daily UI archive and beyond",
+      "link": "https://collectui.com",
+      "category": "UI Design",
+      "image": "https://example.com/collectui.png"
+    },
+    {
+      "id": 184,
+      "title": "Pttrns",
+      "description": "Mobile design patterns, resources, and inspiration",
+      "link": "https://pttrns.com",
+      "category": "UI Design",
+      "image": "https://example.com/pttrns.png"
+    },
+    {
+      "id": 185,
+      "title": "Uplabs",
+      "description": "Community of designers and developers sharing high-quality resources and freebies",
+      "link": "https://www.uplabs.com",
+      "category": "UI Design",
+      "image": "https://example.com/uplabs.png"
+    },
+    {
+      "id": 186,
+      "title": "Smashing Magazine",
+      "description": "Online magazine for professional web designers and developers",
+      "link": "https://www.smashingmagazine.com",
+      "category": "UI Design",
+      "image": "https://example.com/smashingmagazine.png"
+    },
+    {
+      "id": 187,
+      "title": "Sidebar.io",
+      "description": "Curated newsletters for designers and developers",
+      "link": "https://sidebar.io",
+      "category": "UI Design",
+      "image": "https://example.com/sidebario.png"
+    },
+    {
+      "id": 188,
+      "title": "Codrops",
+      "description": "Web design and development blog",
+      "link": "https://tympanus.net/codrops",
+      "category": "UI Design",
+      "image": "https://example.com/codrops.png"
+    },
+    {
+      "id": 189,
+      "title": "UX Design Collective",
+      "description": "Curated stories on UX, usability, and design",
+      "link": "https://uxdesign.cc",
+      "category": "UX Case Study",
+      "image": "https://example.com/uxdesign_collective.png"
+    },
+    {
+      "id": 190,
+      "title": "Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "UX Research",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 191,
+      "title": "UX Planet",
+      "description": "Community of designers sharing UX design tutorials, articles, resources, and case studies",
+      "link": "https://uxplanet.org",
+      "category": "UX Case Study",
+      "image": "https://example.com/uxplanet.png"
+    },
+    {
+      "id": 192,
+      "title": "Smashing UX Design",
+      "description": "Book on how to develop successful interactive products",
+      "link": "https://www.smashingmagazine.com/smashing-ux-design-book",
+      "category": "UX Case Study",
+      "image": "https://example.com/smashing_uxdesign.png"
+    },
+    {
+      "id": 193,
+      "title": "The UX Collective",
+      "description": "Platform for UX designers and researchers to share their knowledge and insights",
+      "link": "https://uxdesign.cc",
+      "category": "UX Case Study",
+      "image": "https://example.com/uxcollective.png"
+    },
+    {
+      "id": 194,
+      "title": "Medium",
+      "description": "Online publishing platform for independent writers and publishers",
+      "link": "https://medium.com",
+      "category": "UX Case Study",
+      "image": "https://example.com/medium.png"
+    },
+    {
+      "id": 195,
+      "title": "UX Design Institute",
+      "description": "Online education and accreditation for UX design professionals",
+      "link": "https://www.uxdesigninstitute.com",
+      "category": "UX Research",
+      "image": "https://example.com/uxdesign_institute.png"
+    },
+    {
+      "id": 196,
+      "title": "NN/g Nielsen Norman Group",
+      "description": "UX research and consulting firm",
+      "link": "https://www.nngroup.com",
+      "category": "UX Research",
+      "image": "https://example.com/nn_group.png"
+    },
+    {
+      "id": 197,
+      "title": "Usability.gov",
+      "description": "Resource for UX best practices and guidelines",
+      "link": "https://www.usability.gov",
+      "category": "UX Research",
+      "image": "https://example.com/usabilitygov.png"
+    },
+    {
+      "id": 198,
+      "title": "UX Booth",
+      "description": "Publication on UX design and research",
+      "link": "https://www.uxbooth.com",
+      "category": "UX Research",
+      "image": "https://example.com/uxbooth.png"
+    },
+    {
+      "id": 199,
+      "title": "The Interaction Design Foundation",
+      "description": "Online community for UX design courses, articles, and resources",
+      "link": "https://www.interaction-design.org",
+      "category": "UX Research",
+      "image": "https://example.com/interaction_design_foundation.png"
+    },
+    {
+      "id": 200,
+      "title": "Usability Hub",
+      "description": "User testing and usability research platform",
+      "link": "https://usabilityhub.com",
+      "category": "UX Research",
+      "image": "https://example.com/usabilityhub.png"
+    },
+    {
+      "id": 201,
+      "title": "Color Hunt",
+      "description": "Curated collection of beautiful colors, updated daily",
+      "link": "https://colorhunt.co",
+      "category": "Color Palettes",
+      "image": "https://example.com/color_hunt.png"
+    },
+    {
+      "id": 202,
+      "title": "Coolors",
+      "description": "Generate color schemes and palettes",
+      "link": "https://coolors.co",
+      "category": "Color Palettes",
+      "image": "https://example.com/coolors.png"
+    },
+    {
+      "id": 203,
+      "title": "Material Design",
+      "description": "Guidelines, components, and resources for Material Design",
+      "link": "https://material.io/design",
+      "category": "Design Systems",
+      "image": "https://example.com/material_design.png"
+    },
+    {
+      "id": 204,
+      "title": "Ant Design",
+      "description": "Design system for enterprise-level products",
+      "link": "https://ant.design",
+      "category": "Design Systems",
+      "image": "https://example.com/ant_design.png"
+    },
+    {
+      "id": 205,
+      "title": "Carbon Design System",
+      "description": "Open-source design system for IBM",
+      "link": "https://www.carbondesignsystem.com",
+      "category": "Design Systems",
+      "image": "https://example.com/carbon_design_system.png"
+    },
+    {
+      "id": 206,
+      "title": "Eva Design System",
+      "description": "Design system for building web and mobile applications",
+      "link": "https://eva.design",
+      "category": "Design Systems",
+      "image": "https://example.com/eva_design_system.png"
+    },
+    {
+      "id": 207,
+      "title": "Shopify Polaris",
+      "description": "Design system for Shopify's admin UI",
+      "link": "https://polaris.shopify.com",
+      "category": "Design Systems",
+      "image": "https://example.com/shopify_polaris.png"
+    },
+    {
+      "id": 208,
+      "title": "Microsoft Fluent Design",
+      "description": "Design system by Microsoft for building Windows apps",
+      "link": "https://www.microsoft.com/design/fluent",
+      "category": "Design Systems",
+      "image": "https://example.com/microsoft_fluent_design.png"
+    },
+    {
+      "id": 209,
+      "title": "IBM Design Language",
+      "description": "Guidelines and resources for designing IBM products",
+      "link": "https://www.ibm.com/design/language",
+      "category": "Design Systems",
+      "image": "https://example.com/ibm_design_language.png"
+    },
+    {
+      "id": 210,
+      "title": "Google Material Icons",
+      "description": "Official icons for Material Design",
+      "link": "https://material.io/resources/icons",
+      "category": "Icons",
+      "image": "https://example.com/google_material_icons.png"
+    },
+    {
+      "id": 211,
+      "title": "FontAwesome",
+      "description": "Library of scalable vector icons",
+      "link": "https://fontawesome.com",
+      "category": "Icons",
+      "image": "https://example.com/fontawesome.png"
+    },
+    {
+      "id": 212,
+      "title": "Feather Icons",
+      "description": "Open-source icon set",
+      "link": "https://feathericons.com",
+      "category": "Icons",
+      "image": "https://example.com/feather_icons.png"
+    },
+    {
+      "id": 213,
+      "title": "Ionicons",
+      "description": "Premium designed icons for use in web, iOS, Android, and desktop apps",
+      "link": "https://ionicons.com",
+      "category": "Icons",
+      "image": "https://example.com/ionicons.png"
+    },
+    {
+      "id": 214,
+      "title": "Streamline Icons",
+      "description": "High-quality icons with a unique and consistent style",
+      "link": "https://streamlineicons.com",
+      "category": "Icons",
+      "image": "https://example.com/streamline_icons.png"
+    },
+    {
+      "id": 215,
+      "title": "Boxicons",
+      "description": "Simple and clean vector icons",
+      "link": "https://boxicons.com",
+      "category": "Icons",
+      "image": "https://example.com/boxicons.png"
+    },
+    {
+      "id": 216,
+      "title": "Tabler Icons",
+      "description": "High-quality open-source icons",
+      "link": "https://tablericons.com",
+      "category": "Icons",
+      "image": "https://example.com/tabler_icons.png"
+    },
+    {
+      "id": 217,
+      "title": "Bootstrap Icons",
+      "description": "Official open-source SVG icon library for Bootstrap",
+      "link": "https://icons.getbootstrap.com",
+      "category": "Icons",
+      "image": "https://example.com/bootstrap_icons.png"
+    },
+    {
+      "id": 218,
+      "title": "Material Design Icons",
+      "description": "Material icons in SVG and PNG format",
+      "link": "https://materialdesignicons.com",
+      "category": "Icons",
+      "image": "https://example.com/material_design_icons.png"
+    },
+    {
+      "id": 219,
+      "title": "Illustrator",
+      "description": "Vector graphics editor",
+      "link": "https://www.adobe.com/products/illustrator.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/illustrator.png"
+    },
+    {
+      "id": 220,
+      "title": "Photoshop",
+      "description": "Raster graphics editor",
+      "link": "https://www.adobe.com/products/photoshop.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/photoshop.png"
+    },
+    {
+      "id": 221,
+      "title": "InDesign",
+      "description": "Desktop publishing software",
+      "link": "https://www.adobe.com/products/indesign.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/indesign.png"
+    },
+    {
+      "id": 222,
+      "title": "Canva",
+      "description": "Graphic design platform",
+      "link": "https://www.canva.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/canva.png"
+    },
+    {
+      "id": 223,
+      "title": "GIMP",
+      "description": "Free and open-source raster graphics editor",
+      "link": "https://www.gimp.org",
+      "category": "Graphic Design",
+      "image": "https://example.com/gimp.png"
+    },
+    {
+      "id": 224,
+      "title": "SketchUp",
+      "description": "3D modeling software",
+      "link": "https://www.sketchup.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/sketchup.png"
+    },
+    {
+      "id": 225,
+      "title": "Affinity Designer",
+      "description": "Professional graphic design software for desktop and iPad",
+      "link": "https://affinity.serif.com/en-us/designer",
+      "category": "Graphic Design",
+      "image": "https://example.com/affinity_designer.png"
+    },
+    {
+      "id": 226,
+      "title": "Framer",
+      "description": "Interactive design tool for creating responsive designs, animations, and prototypes",
+      "link": "https://www.framer.com",
+      "category": "UI Design",
+      "image": "https://example.com/framer.png"
+    },
+    {
+      "id": 227,
+      "title": "Miro",
+      "description": "Online collaborative whiteboard platform",
+      "link": "https://miro.com",
+      "category": "UI Design",
+      "image": "https://example.com/miro.png"
+    },
+    {
+      "id": 228,
+      "title": "Adobe Illustrator",
+      "description": "Vector graphics editor",
+      "link": "https://www.adobe.com/products/illustrator.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/adobe_illustrator.png"
+    },
+    {
+      "id": 229,
+      "title": "Adobe Photoshop",
+      "description": "Raster graphics editor",
+      "link": "https://www.adobe.com/products/photoshop.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/adobe_photoshop.png"
+    },
+    {
+      "id": 230,
+      "title": "Adobe InDesign",
+      "description": "Desktop publishing software",
+      "link": "https://www.adobe.com/products/indesign.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/adobe_indesign.png"
+    },
+    {
+      "id": 231,
+      "title": "CorelDRAW",
+      "description": "Vector graphics editor",
+      "link": "https://www.coreldraw.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/coreldraw.png"
+    },
+    {
+      "id": 232,
+      "title": "Affinity Photo",
+      "description": "Professional photo editing software",
+      "link": "https://affinity.serif.com/en-us/photo",
+      "category": "Graphic Design",
+      "image": "https://example.com/affinity_photo.png"
+    },
+    {
+      "id": 233,
+      "title": "Affinity Publisher",
+      "description": "Desktop publishing software",
+      "link": "https://affinity.serif.com/en-us/publisher",
+      "category": "Graphic Design",
+      "image": "https://example.com/affinity_publisher.png"
+    },
+    {
+      "id": 234,
+      "title": "SketchBook",
+      "description": "Drawing app and painting software",
+      "link": "https://www.autodesk.com/products/sketchbook/overview",
+      "category": "Graphic Design",
+      "image": "https://example.com/sketchbook.png"
+    },
+    {
+      "id": 235,
+      "title": "Pixlr",
+      "description": "Online photo editing tool",
+      "link": "https://pixlr.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/pixlr.png"
+    },
+    {
+      "id": 236,
+      "title": "Gravit Designer",
+      "description": "Design software for vector graphics",
+      "link": "https://www.designer.io",
+      "category": "Graphic Design",
+      "image": "https://example.com/gravit_designer.png"
+    },
+    {
+      "id": 237,
+      "title": "Inkscape",
+      "description": "Free and open-source vector graphics editor",
+      "link": "https://inkscape.org",
+      "category": "Graphic Design",
+      "image": "https://example.com/inkscape.png"
+    },
+    {
+      "id": 238,
+      "title": "Vectr",
+      "description": "Free graphics software for creating vector graphics",
+      "link": "https://vectr.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/vectr.png"
+    },
+    {
+      "id": 239,
+      "title": "Clip Studio Paint",
+      "description": "Digital art software",
+      "link": "https://www.clipstudio.net/en",
+      "category": "Graphic Design",
+      "image": "https://example.com/clip_studio_paint.png"
+    },
+    {
+      "id": 240,
+      "title": "Procreate",
+      "description": "Digital painting app for iPad",
+      "link": "https://procreate.art",
+      "category": "Graphic Design",
+      "image": "https://example.com/procreate.png"
+    },
+    {
+      "id": 241,
+      "title": "Adobe Fresco",
+      "description": "Drawing and painting app for iPad",
+      "link": "https://www.adobe.com/products/fresco.html",
+      "category": "Graphic Design",
+      "image": "https://example.com/adobe_fresco.png"
+    },
+    {
+      "id": 242,
+      "title": "Clip Studio",
+      "description": "Digital art software for manga, comics, and animation",
+      "link": "https://www.clipstudio.net/en",
+      "category": "Graphic Design",
+      "image": "https://example.com/clip_studio.png"
+    },
+    {
+      "id": 243,
+      "title": "Medibang Paint",
+      "description": "Free digital painting and manga creation software",
+      "link": "https://medibangpaint.com/en",
+      "category": "Graphic Design",
+      "image": "https://example.com/medibang_paint.png"
+    },
+    {
+      "id": 244,
+      "title": "Krita",
+      "description": "Free and open-source digital painting software",
+      "link": "https://krita.org/en",
+      "category": "Graphic Design",
+      "image": "https://example.com/krita.png"
+    },
+    {
+      "id": 245,
+      "title": "ArtRage",
+      "description": "Digital art software for Windows, macOS, and iOS",
+      "link": "https://www.artrage.com",
+      "category": "Graphic Design",
+      "image": "https://example.com/artrage.png"
+    },
+    {
+      "id": 246,
+      "title": "Figma Tutorial for Beginners - Learn Figma in 30 Minutes",
+      "description": "A beginner-friendly tutorial covering the basics of Figma interface and features.",
+      "link": "https://www.youtube.com/watch?v=3q3FV65ZrUs",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/3q3FV65ZrUs/maxresdefault.jpg"
+    },
+    {
+      "id": 247,
+      "title": "Adobe XD Crash Course - Design and Prototype a Mobile App",
+      "description": "A crash course on Adobe XD demonstrating how to design and prototype a mobile app.",
+      "link": "https://www.youtube.com/watch?v=UmXQ8risJwI",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/UmXQ8risJwI/maxresdefault.jpg"
+    },
+    {
+      "id": 248,
+      "title": "Neumorphism UI Design Tutorial in Adobe XD",
+      "description": "Learn how to create neumorphic UI designs using Adobe XD.",
+      "link": "https://www.youtube.com/watch?v=jKrYNpumE2Y",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/jKrYNpumE2Y/maxresdefault.jpg"
+    },
+    {
+      "id": 249,
+      "title": "Top UI/UX Design Trends You Should Know in 2024",
+      "description": "Discover the top UI/UX design trends shaping the industry in 2024.",
+      "link": "https://www.youtube.com/watch?v=9KGsS1fwDFE",
+      "category": "Trending Videos",
+      "image": "https://img.youtube.com/vi/9KGsS1fwDFE/maxresdefault.jpg"
+    },
+    {
+      "id": 250,
+      "title": "Designing for Accessibility: Tips and Best Practices",
+      "description": "Learn about designing accessible user interfaces with practical tips and best practices.",
+      "link": "https://www.youtube.com/watch?v=HHvnBnZ3Z3s",
+      "category": "Trending Videos",
+      "image": "https://img.youtube.com/vi/HHvnBnZ3Z3s/maxresdefault.jpg"
+    },
+    {
+      "id": 251,
+      "title": "Mastering UI Animation in After Effects",
+      "description": "A comprehensive guide to creating stunning UI animations using After Effects.",
+      "link": "https://www.youtube.com/watch?v=YWR3K7Vd1To",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/YWR3K7Vd1To/maxresdefault.jpg"
+    },
+    {
+      "id": 252,
+      "title": "Building a Design System from Scratch",
+      "description": "Step-by-step tutorial on building a design system from scratch for your projects.",
+      "link": "https://www.youtube.com/watch?v=yLErPd3IVNo",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/yLErPd3IVNo/maxresdefault.jpg"
+    },
+    {
+      "id": 253,
+      "title": "Wireframing in Sketch: Tips and Techniques",
+      "description": "Learn effective wireframing techniques using Sketch with practical tips.",
+      "link": "https://www.youtube.com/watch?v=8JX8H3L2G5U",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/8JX8H3L2G5U/maxresdefault.jpg"
+    },
+    {
+      "id": 254,
+      "title": "Creating Interactive Prototypes in InVision Studio",
+      "description": "A step-by-step guide to creating interactive prototypes in InVision Studio.",
+      "link": "https://www.youtube.com/watch?v=cw2VmNzJ2Jw",
+      "category": "YouTube Tutorials",
+      "image": "https://img.youtube.com/vi/cw2VmNzJ2Jw/maxresdefault.jpg"
+    },
+    {
+      "id": 255,
+      "title": "Latest UI/UX Design Tools and Technologies",
+      "description": "Stay updated with the latest UI/UX design tools and technologies in this informative video.",
+      "link": "https://www.youtube.com/watch?v=FKmOjPPxVxo",
+      "category": "Trending Videos",
+      "image": "https://img.youtube.com/vi/FKmOjPPxVxo/maxresdefault.jpg"
+    }
+  ]
+}
